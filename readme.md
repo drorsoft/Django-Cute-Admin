@@ -1,4 +1,4 @@
-# Django cute admin
+# 🦄 Django Cute Admin 🦄
 
 ## Tired of your boring admin? Dont want to deep dive into admin libraries?
 
